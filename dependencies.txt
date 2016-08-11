@@ -1,0 +1,2 @@
+jsbeautifier==1.6.3
+yara==1.7.7

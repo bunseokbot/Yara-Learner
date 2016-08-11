@@ -1,0 +1,1334 @@
+<!DOCTYPE html>
+<html lang="ko" itemscope itemtype="http://schema.org/WebPage">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+<meta name="format-detection" content="telephone=no, address=no, email=no" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta http-equiv="Content-Language" content="ko">
+<meta property="product:availability"	content="oos">
+
+
+<script type="text/javascript">
+var SITE_CD = 'sec';
+var DOMAIN = 'www.samsung.com';
+var OP_MODE = false;
+var USE_ESTORE = true;
+var USE_INSTORE = true;
+var INSTORE_MODE = false;
+var INSTORE_CODE = '';
+var BUSINESS_MODE = 'false';
+var MODULE_TYPE = 'B2C';
+var STORE_DOMAIN = 'store.samsung.com';
+var SYSTEM_MODE = 'real';
+var ORG_PDF_URL = "";
+var VISITORFLAG = '';
+var ESTORE_FAULT_MSG = '현재 로그인 및 e 커머스 기능은 시스템 관리로 인해 이용할 수 없습니다.';
+var SEC_LOCAL_URL_CHECKMEMBERSTATE = 'http://local.sec.samsung.com/comLocal/checkMemberStateAjax.do';
+var SEC_LOCAL_URL_SIGNIN = 'http://local.sec.samsung.com/comLocal/loginCheck.do';
+try {
+	document.domain = 'samsung.com';
+} catch(e) {}
+</script>
+<title>SAMSUNG 대한민국 - 스마트폰 | TV | 노트북 | 생활가전 | 주방가전</title>
+<link rel="canonical" href="http://www.samsung.com/sec/">
+<link rel="alternate" hreflang="x-default" href="http://www.samsung.com">
+<link rel="alternate" hreflang="ko" href="http://www.samsung.com/sec/">
+<meta name="title" content="SAMSUNG 대한민국 - 스마트폰 | TV | 노트북 | 생활가전 | 주방가전">
+<meta name="description" content="삼성전자 대표사이트에 오신 것을 환영합니다. TV, 스마트 폰, 태블릿, 가전 및 최첨단 기술 가전을 만나보세요!">
+<meta name="keywords" content="samsung, samsung.com, samsung electronics, samsung website, 삼성전자, 삼성전자 웹사이트, 삼성전자 대표사이트, sec, sec.co.kr">
+<meta name="date" content="2015-10-20">
+<meta name="sitecode" content="SEC">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@samsungtomorrow">
+<meta name="twitter:creator" content="@samsungtomorrow">
+<meta name="twitter:url" content="http://www.samsung.com/sec/home/">
+<meta name="twitter:title" content="삼성전자 대표사이트">
+<meta name="twitter:description" content="삼성전자 대표사이트입니다.">
+<meta property="og:url" content="http://www.samsung.com/sec/home/">
+<meta property="og:image" content="http://www.samsung.com/common/img/logo-square-letter.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="삼성전자 대표사이트">
+<meta itemprop="name" content="삼성전자 대표사이트입니다.">
+<meta itemprop="image" content="http://www.samsung.com/common/img/logo-square-letter.png">
+<meta itemprop="url" content="http://www.samsung.com/sec/home/">
+<meta itemprop="description" content="삼성전자 대표사이트에 오신 것을 환영합니다. TV, 스마트 폰, 태블릿, 가전 및 최첨단 기술 가전을 만나보세요!">
+<meta itemprop="keywords" content="samsung, samsung.com, samsung electronics, samsung website, 삼성전자, 삼성전자 웹사이트, 삼성전자 대표사이트, sec, sec.co.kr">
+<link rel="shortcut icon" href="/common/next/img/favicon.ico">
+<link rel="apple-touch-icon" href="/common/next/img/app_ico.gif">
+<link rel="stylesheet" type="text/css" href="/common/css/global_common.css">
+<link rel="stylesheet" type="text/css" href="/common/css/nav.css">
+<!--[if lt IE 9]>
+    <script src="/common/js/dist/modern.lib.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/sec/common/css/common.css">
+<link rel="stylesheet" type="text/css" href="/sec/common/css/home.css">
+
+<style>
+
+.single-area{
+	background:-webkit-linear-gradient(180deg,#f2f2f2,#dbdbdb);
+	background:-o-linear-gradient(180deg,#f2f2f2,#dbdbdb);
+	background:-moz-linear-gradient(180deg,#f2f2f2,#dbdbdb);
+	background:linear-gradient(180deg,#f2f2f2,#dbdbdb);
+	filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#f2f2f2', endColorstr='#dbdbdb')}
+.single-area:after{display:block;clear:both;content:''}
+
+.single-area .prd-vertical-wrap{top:40%;}
+.single-area .type-2 .prd-img{ top:39%;}
+	
+
+.top-area .prd-second .prd-info {
+    top: 26%;
+    left: 3.5%;
+}
+.top-area .prd-second .prd-info .prd-tit{font-size:28px; line-height: 110%;}	
+.top-area .prd-second .button-prd {
+    border-color: #fff;
+    color: #fff;
+}
+.notice_sec{ display:block !important;}
+
+@media screen and (min-width: 1280px){
+.single-area .prd-info .prd-tit {
+    font-size: 38px;
+}
+.single-area .prd-info .prd-txt {
+    font-size: 20px;
+}
+}
+
+@media screen and (max-width: 1024px){
+.top-area .prd-fourth .prd-info {
+    top: 9%;
+    left: 8.5%;
+    /*width: initial;*/
+}
+.top-area .prd-second .prd-info {
+    top: 30%;
+    left: 3.5%;
+}
+.top-area .prd-second .prd-info .prd-tit{font-size: 2.4vw; line-height: 110%;}	
+.button-media span, .prd-tit {
+    font-size: 1.8vw;
+    line-height: 110%;
+}
+}
+
+@media screen and (max-width: 767px){
+.single-area {
+    min-height: 930px;
+    height: 930px;
+}
+.single-area .prd-item{
+    height: 930px; 
+}
+.single-area .button-prd{ font-size:2.4vw; padding: 12px 60px 11px;}
+.single-area .prd-img {
+    height: 500px;
+}
+.single-area .type-2 .prd-text-area {
+    height: 430px;
+	padding-top:5%;
+}
+
+.single-area .prd-info .prd-tit {
+    font-size: 7vw;
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+}
+.single-area .prd-info .prd-txt {
+    font-size: 3.5vw;
+	margin-top:4%;
+}
+.top-area .prd-second .prd-info{ top:32%;}
+.top-area .prd-second .prd-info .prd-tit{font-size:4vw; line-height: 110%;}	
+}
+@media screen and (max-width: 480px){
+.single-area {
+    min-height: 600px;
+    height: 600px;
+}
+.single-area .prd-item{
+    height: 600px; 
+}
+.single-area .button-prd{ font-size:2.4vw; padding: 12px 60px 11px;}
+.single-area .prd-img {
+    height: 350px;
+}
+.single-area .type-2 .prd-text-area {
+    height: 230px;
+	padding-top:5%;
+}
+}
+
+/*.top-area .prd-fourth .prd-tit img{ max-width:168px;}*/
+@media screen and (max-width: 1125px) and (min-width: 1034px){
+/*.prd-fourth .prd-tit {
+    font-size: 18px;
+}*/
+.top-area .prd-second .prd-info {
+    top: 26%;
+    left: 3.5%;
+}
+.top-area .prd-second .prd-info .prd-tit{font-size:24px; line-height: 110%;}	
+}
+.single-area.skin-unpack1608 .type-3 .button-prd{font-family: 'SECGCWB',Arial,sans-serif !important;}
+</style>
+
+</head>
+<body>
+<div id="wrap">
+	<!-- header -->
+		<header id="header" role="banner">
+		<div role="status" class="skip-content">
+			<p><a href="#content" id="skipToContent">본문 바로가기</a></p>
+			<p><a href="#accHelp">웹접근성 도움말 바로가기</a></p>
+		</div>
+		<div class="header-wrap">
+			<div class="header-inner header-pc">
+				<div class="header-info">
+					<strong class="header-logo"><a href="/sec/home/" class="bg-logo">SAMSUNG</a></strong>
+					<ul class="header-m">
+					<li class="header-m-list js-m-search"><a href="#" data-omni="click" data-omni-type="gnb" data-omni-data="search"><span class="ico-search">검색</span></a></li>
+					<li class="header-m-list js-m-login"><a href="#" class="login-btn" data-return-url="" data-button-type="1" data-omni="click" data-omni-type="gnb" data-omni-data="login"><span class="ico-login"></span><span class="m-hide login-txt">로그인</span></a></li>
+					<li class="header-m-list js-m-cart">
+						<div id="ss_cart" class="cart-wrap">
+							<button class="cartbutton item" data-focus-id="nav-cart-link" data-omni="click" data-omni-type="gnb" data-omni-data="cart"><span class="icon-cart"></span>장바구니<span class="cartnum">0</span></button>
+							<div class="cart-list-wrap">
+								<h3>장바구니</h3>
+								<div>
+									<div class="cart-products no-data">장바구니에 담겨있는 상품이 없습니다.</div>
+								</div>
+								<div class="total">
+									<div class="price">
+										<strong>총 주문금액</strong><span>0 원</span>
+									</div>
+									<div class="btn">
+										<div class="vertical-align-content">
+											<a id="shop-button-9" class="ss-button shop darkblue" data-original-title="" title="" target="_top" style="background-color:#a6a8aa; color:#ffffff; cursor: default; ">주문하기</a>
+										</div>
+									</div>
+								</div>
+								<button class="cart-close" onclick="javascript:hideMiniCart();" title="장바구니 레이어 닫기"><span class="icon-close-x"></span></button>
+								<form id="miniEntryForm">
+									<input type="hidden" id="miniEntryNumber" name="miniEntryNumber">
+									<input type="hidden" id="cartConfirmCreation" name="cartConfirmCreation">
+									<input type="hidden" id="isRightCartPage" name="isRightCartPage">
+								</form>
+							</div>
+						</div>
+					</li>
+					<li class="header-m-list header-m-menu js-m-menu"><a href="#" data-omni="click" data-omni-type="gnb" data-omni-data="menu list"><span class="ico-menu">메뉴 열림</span></a></li>
+					</ul>
+					<nav class="header-nav" role="navigation">
+						<ul class="depth1">
+							<li class='depth1-menu'>
+		<a href='#' class='depth1-menu-lk more-depth' data-omni='click' data-omni-type='gnb' data-omni-data='consumer'>&#51228;&#54408;&#51221;&#48372;<span class='ico-more'>Open sub menu</span></a>
+		<ul class='depth2'>
+			<li class='depth2-menu sub-menu'><a href='/sec/consumer/mobile-tablet/' class='depth2-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:mobile-tablet'>&#55092;&#45824;&#54256;/&#53468;&#48660;&#47551;<span class='ico-more'></span></a>
+				<ul class='depth3'>
+					<li class='depth3-menu only-mobile'><a href='/sec/consumer/mobile-tablet/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:mobile-tablet:mobile-tablet-more'>&#55092;&#45824;&#54256;/&#53468;&#48660;&#47551; &#45908;&#48372;&#44592;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/mobile-tablet/mobile-phone/galaxy-s/galaxy-s7/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:mobile-tablet:galaxy s7'>&#44068;&#47085;&#49884; S7</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/mobile-tablet/mobile-phone/filter/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:mobile-tablet:mobile-phone'>&#49828;&#47560;&#53944;&#54256;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/mobile-tablet/tablet/filter/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:mobile-tablet:tablet'>&#53468;&#48660;&#47551;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/mobile-tablet/windows-tablet/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:mobile-tablet:windows-tablet'>&#50952;&#46020;&#50864; &#53468;&#48660;&#47551;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/mobile-tablet/gear' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:mobile-tablet:gear'>&#44592;&#50612;</a></li>
+					<li class='depth3-menu'><a href='/sec/apps/mobile/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:mobile-tablet:contents'>&#53080;&#53584;&#52768;</a></li>
+				</ul>
+			</li>
+			<li class='depth2-menu sub-menu'><a href='/sec/consumer/tv-video/' class='depth2-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:tv video'>TV/AV/SERIF TV<span class='ico-more'></span></a>
+				<ul class='depth3'>
+					<li class='depth3-menu only-mobile'><a href='/sec/consumer/tv-video/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:tv video:tv-audio-more'>TV/AV/SERIF TV &#45908;&#48372;&#44592;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/tv-video/tv/filter/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:tv video:tv'>TV</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/tv-video/av' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:tv video:av'>AV</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/tv-video/serif-tv' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:tv video:serif-tv'>SERIF TV</a></li>
+				</ul>
+			</li>
+			<li class='depth2-menu sub-menu'><a href='/sec/consumer/kitchen-appliances/' class='depth2-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:kitchen-appliances'>&#51452;&#48169;&#44032;&#51204;<span class='ico-more'></span></a>
+				<ul class='depth3'>
+					<li class='depth3-menu only-mobile'><a href='/sec/consumer/kitchen-appliances/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:kitchen-appliances:kitchen-appliances-more'>&#51452;&#48169;&#44032;&#51204; &#45908;&#48372;&#44592;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/kitchen-appliances/refrigerators/filter/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:kitchen-appliances:refrigerators'>&#45257;&#51109;&#44256;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/kitchen-appliances/kimchi-refrigerator/filter/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:kitchen-appliances:kimchi-refrigerator'>&#44608;&#52824;&#45257;&#51109;&#44256;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/kitchen-appliances/oven-microwaves' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:kitchen-appliances:oven-microwaves'>&#50724;&#48656;/&#51204;&#51088;&#47112;&#51064;&#51648;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/kitchen-appliances/built-in-appliances' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:kitchen-appliances:built-in appliances'>&#48716;&#53944;&#51064; &#44032;&#51204;</a></li>
+				</ul>
+			</li>
+			<li class='depth2-menu sub-menu'><a href='/sec/consumer/living-appliances/' class='depth2-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:living-appliances'>&#49373;&#54876;&#44032;&#51204;<span class='ico-more'></span></a>
+				<ul class='depth3'>
+					<li class='depth3-menu only-mobile'><a href='/sec/consumer/living-appliances/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:living-appliances:living-appliances-more'>&#49373;&#54876;&#44032;&#51204; &#45908;&#48372;&#44592;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/living-appliances/airconditioners' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:living-appliances:airconditioners'>&#50640;&#50612;&#52968;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/living-appliances/washers-dryers/filter/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:living-appliances:washers-dryers'>&#49464;&#53441;&#44592;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/living-appliances/vacuumcleaners' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:living-appliances:vacuumcleaners'>&#52397;&#49548;&#44592;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/living-appliances/air-cleaner' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:living-appliances:air-cleaner'>&#44277;&#44592;&#52397;&#51221;&#44592;/&#51228;&#49845;&#44592;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/living-appliances/small-appliances' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:living-appliances:small-appliances'>&#49548;&#54805;&#44032;&#51204;</a></li>
+				</ul>
+			</li>
+			<li class='depth2-menu sub-menu'><a href='#' class='depth2-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:it'>PC/&#54532;&#47536;&#53552;/&#52852;&#47700;&#46972;<span class='ico-more'></span></a>
+				<ul class='depth3'>
+					<li class='depth3-menu'><a href='/sec/consumer/it/notebook' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:it:notebook'>&#45432;&#53944;&#48513;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/it/allinone-desktop' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:it:allinone-desktop'>&#50732;&#51064;&#50896;PC/&#45936;&#49828;&#53356;&#53457;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/it/display' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:it:display'>&#47784;&#45768;&#53552;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/it/printers-multifunction' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:it:printers-multifunction'>&#54532;&#47536;&#53552;/&#53664;&#45320;/&#49548;&#47784;&#54408;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/it/camera-lens' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:it:camera-lens'>&#52852;&#47700;&#46972;/&#47116;&#51592;</a></li>
+				</ul>
+			</li>
+			<li class='depth2-menu sub-menu'><a href='/sec/consumer/memory-storage/memory-storage/filter/' class='depth2-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:memory-storage'>&#47700;&#47784;&#47532;/&#49828;&#53664;&#47532;&#51648;<span class='ico-more'></span></a>
+				<ul class='depth3'>
+					<li class='depth3-menu only-mobile'><a href='/sec/consumer/memory-storage/memory-storage/filter/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:memory-storage:memory-more'>&#47700;&#47784;&#47532;/&#49828;&#53664;&#47532;&#51648; &#45908;&#48372;&#44592;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/memory-storage/memory-storage/ssd/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:memory-storage:ssd'>SSD</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/memory-storage/memory-storage/portable-ssd/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:memory-storage:portable-ssd'>&#54252;&#53552;&#48660; SSD</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/memory-storage/memory-storage/memory/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:memory-storage:memory'>&#47700;&#47784;&#47532;&#52852;&#46300;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/memory-storage/memory-storage/usb-flash-drive/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:memory-storage:usb-flash-drive'>USB Flash Drive</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/memory-storage/memory-storage/ex-hdd/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:memory-storage:ex-hdd'>&#50808;&#51109;HDD</a></li>
+				</ul>
+			</li>
+			<li class='depth2-menu sub-menu'><a href='#' class='depth2-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:accessories'>&#50529;&#49464;&#49436;&#47532;<span class='ico-more'></span></a>
+				<ul class='depth3'>
+					<li class='depth3-menu'><a href='/sec/consumer/accessories/mobile-accessories' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:accessories:mobile-accessories'>&#55092;&#45824;&#54256;/&#53468;&#48660;&#47551; &#50529;&#49464;&#49436;&#47532;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/accessories/tv-accessories' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:accessories:tv-accessories'>TV &#50529;&#49464;&#49436;&#47532;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/accessories/pc-accessories' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:accessories:pc-accessories'>PC &#50529;&#49464;&#49436;&#47532;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/accessories/printer-accessories' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:accessories:printer-accessories'>&#54532;&#47536;&#53552; &#50529;&#49464;&#49436;&#47532;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/accessories/kimchi-refrigerator-accessories' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:accessories:kimchi refrigerator accessories'>&#44608;&#52824;&#45257;&#51109;&#44256; &#50529;&#49464;&#49436;&#47532;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/accessories/air-cleaner-accessories' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:accessories:air-cleaner-accessories'>&#44277;&#44592;&#52397;&#51221;&#44592; &#50529;&#49464;&#49436;&#47532;</a></li>
+					<li class='depth3-menu'><a href='/sec/consumer/accessories/smarthome-accessories' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='consumer:accessories:smarthome-accessories'>&#49828;&#47560;&#53944;&#54856; &#50529;&#49464;&#49436;&#47532;</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class='depth1-menu'><a href='/sec/samsung-pay/' class='depth1-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='samsung-pay'>&#49340;&#49457; &#54168;&#51060;</a></li>
+	<li class='depth1-menu'>
+		<a href='#' class='depth1-menu-lk more-depth' data-omni='click' data-omni-type='gnb' data-omni-data='support'>&#44256;&#44061;&#51648;&#50896;<span class='ico-more'>Open sub menu</span></a>
+		<ul class='depth2'>
+			<li class='depth2-menu sub-menu'><a href='/sec/support/' class='depth2-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:home'>Home</a></li>
+			<li class='depth2-menu sub-menu'><a href='#' class='depth2-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:service center'>&#47588;&#51109;/&#49436;&#48708;&#49828; &#49468;&#53552;<span class='ico-more'></span></a>
+				<ul class='depth3'>
+					<li class='depth3-menu'><a href='http://local.sec.samsung.com/comLocal/sec/dps/centerMain.do' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:service center:service center'>&#49436;&#48708;&#49828;&#49468;&#53552; &#52286;&#44592;</a></li>
+					<li class='depth3-menu'><a href='http://local.sec.samsung.com/comLocal/sec/dps/shopMain.do' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:service center:shop '>&#47588;&#51109; &#52286;&#44592;</a></li>
+					<li class='depth3-menu'><a href='/sec/szone/' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:service center:s zone'> S&middot;ZONE &#47588;&#51109; &#52286;&#44592;</a></li>
+				</ul>
+			</li>
+			<li class='depth2-menu sub-menu'><a href='/sec/support/galaxyconsultant/index.html' class='depth2-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:galaxyconsultant'>&#44068;&#47085;&#49884; &#52968;&#49444;&#53556;&#53944;</a></li>
+			<li class='depth2-menu sub-menu'><a href='#' class='depth2-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:samsung electronics service'>&#49340;&#49457;&#51204;&#51088;&#49436;&#48708;&#49828;<span class='ico-more'></span></a>
+				<ul class='depth3'>
+					<li class='depth3-menu'><a href='http://www.samsungsvc.co.kr/online/faqList.do'  target='_blank' title='새창' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:samsung electronics service:faq list'>&#47566;&#51060;&#54616;&#45716; &#51656;&#47928;</a></li>
+					<li class='depth3-menu'><a href='http://www.samsungsvc.co.kr/online/diagnosis.do'  target='_blank' title='새창' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:samsung electronics service:diagnosis'>&#51088;&#44032;&#51652;&#45800;</a></li>
+					<li class='depth3-menu'><a href='http://www.samsungsvc.co.kr/online/movGuide.do'  target='_blank' title='새창' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:samsung electronics service:movguide'>&#46041;&#50689;&#49345; &#44032;&#51060;&#46300;</a></li>
+					<li class='depth3-menu'><a href='http://www.samsungsvc.co.kr/online/faqList.do?Lcode=%B1%E2%C5%B8&code=S79&coreword2=%C3%D6%B1%D9+%C0%CC%B8%DE%C0%CF+%C1%FA%B9%AE%B0%FA+%B4%E4%BA%AF&coreword1=%BF%EB%BE%EE%2F%BC%AD%BA%F1%BD%BA%C1%A4%BA%B8&selectCtgrCodeFAQ=NODE0000145891&oneCode=L07&anchorG=Y#anc'  target='_blank' title='새창' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:samsung electronics service:product qna'>&#51228;&#54408;&#49324;&#50857; &#51656;&#47928;&#44284; &#45813;&#48320;</a></li>
+					<li class='depth3-menu'><a href='http://www.samsungsvc.co.kr/reserve/resCenter/reserveMain.do'  target='_blank' title='새창' class='depth3-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:samsung electronics service:service reservation'>&#49436;&#48708;&#49828; &#50696;&#50557;</a></li>
+				</ul>
+			</li>
+			<li class='depth2-menu sub-menu'><a href='http://selc.co.kr/cscenter/moveInst_request.jsp?siteFrom=0010'  target='_blank' title='새창' class='depth2-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:move request'>&#49340;&#49457;&#51228;&#54408; &#51060;&#51204;&#49444;&#52824;</a></li>
+			<li class='depth2-menu sub-menu'><a href='http://store.samsung.com/sec/ng/openPhoneInformation' class='depth2-menu-lk' data-omni='click' data-omni-type='gnb' data-omni-data='support:openphoneinformation'>&#50557;&#51221;&#54256; &#51648;&#50896;&#44552;/&#54032;&#47588;&#44032;</a></li>
+		</ul>
+	</li>
+
+						<!-- Shop, My samsung  -->
+						<li class="depth1-menu"><a href="/sec/shop/" class="depth1-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="shop">스토어</a></li>
+<li class="depth1-menu"><a href="/sec/business/" target="_blank" class="depth1-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="business">비즈니스</a></li>
+<li class="depth1-menu"><a href="#" class="depth1-menu-lk more-depth" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr">삼성그룹<span class="ico-more"></span></a>
+    <ul class="depth2">
+    <li class="depth2-menu sub-menu"><a href="#" class="depth2-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:about">삼성소개<span class="ico-more">메뉴 열기</span></a>
+        <ul class="depth3">
+        <li class="depth3-menu"><a href="http://about.samsung.co.kr/about/intro.do" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:about:main">삼성소개</a></li>
+        <li class="depth3-menu"><a href="http://about.samsung.co.kr/about/philosophy.do" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:about:idea">경영철학</a></li>
+        <li class="depth3-menu"><a href="http://about.samsung.co.kr/about/founder.do" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:about:founder">이병철 선대회장</a></li>
+        <li class="depth3-menu"><a href="http://about.samsung.co.kr/about/chairman.do" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:about:chairman">이건희 회장</a></li>
+        <li class="depth3-menu"><a href="http://about.samsung.co.kr/about/affiliate.do" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:about:affiliate">그룹 계열사</a></li>
+        <li class="depth3-menu"><a href="http://about.samsung.co.kr/about/news.do" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:about:news">뉴스</a></li>
+        <li class="depth3-menu"><a href="http://www.samsung.co.kr/samsungcast/index.jsp" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:about:samsungcast">삼성캐스트</a></li>
+        </ul>
+    </li>
+    <li class="depth2-menu sub-menu"><a href="#" class="depth2-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:with">함께하는 삼성<span class="ico-more">메뉴 열기</span></a>
+        <ul class="depth3">
+        <li class="depth3-menu"><a href="http://www.samsung.co.kr/answer" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:with:chungchun">청춘문답</a></li>
+        <li class="depth3-menu"><a href="http://with.samsung.co.kr/with/main.do?seq=381" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:with:zoomin">줌인삼성</a></li>
+        <li class="depth3-menu"><a href="http://with.samsung.co.kr/with/main.do?seq=247" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:with:dreamclass">드림클래스</a></li>
+        </ul>
+    </li>
+    <li class="depth2-menu sub-menu"><a href="#" class="depth2-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:careers">인재와 채용<span class="ico-more">메뉴 열기</span></a>
+        <ul class="depth3">
+        <li class="depth3-menu"><a href="http://apply.samsung.co.kr/rec/apply/ComResumeServlet?cmd=pstMain" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:careers:main">채용공고</a></li>
+        <li class="depth3-menu"><a href="https://apply.samsung.co.kr/rec/apply/ComResumeServlet/" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:careers:apply">채용지원</a></li>
+        <li class="depth3-menu"><a href="http://careers.samsung.co.kr/careers/intro.do" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:careers:intro">인재상</a></li>
+        <li class="depth3-menu"><a href="http://careers.samsung.co.kr/careers/employ/list.do" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:careers:employ">직무소개</a></li>
+        <li class="depth3-menu"><a href="http://careers.samsung.co.kr/careers/procedures/new4.do" target="_blank" class="depth3-menu-lk" data-omni="click" data-omni-type="gnb" data-omni-data="samsungcokr:careers:procedures">채용제도 안내</a></li>
+        </ul>
+    </li>
+    </ul>
+</li>
+						</ul>
+						<div class="header-utility">
+														<ul class="utility-list pc-utility">							
+							<li><a href="/sec/galaxyclub/" data-omni="click" data-omni-type="gnb" data-omni-data="utility menu:galaxyclub">갤럭시 클럽</a></li>			
+							<li><a href="http://local.sec.samsung.com/comLocal/event/promotion/eventList.do" data-omni="click" data-omni-type="gnb" data-omni-data="utility menu:event">이벤트</a></li>	
+							<li><a href="http://membership.samsung.com/sec/" target="_blank" data-omni="click" data-omni-type="gnb" data-omni-data="utility menu:membership">삼성전자 멤버십</a></li>							
+							<li><a href="/sec/aboutsamsung/" data-omni="click" data-omni-type="gnb" data-omni-data="utility menu:about us">회사소개</a></li>
+							<li><a href="/sec/aboutsamsung/ir/newsMain.do" data-omni="click" data-omni-type="gnb" data-omni-data="utility menu:Investor Relations">투자자 정보</a></li>
+							<li><a href="javascript:void(0);" class="login-btn" data-return-url="http://store.samsung.com/sec/ng/my-samsung/my-summary" data-button-type="2" data-omni="click" data-omni-type="gnb" data-omni-data="utility menu:my samsung">마이삼성</a></li>
+							</ul>
+							<ul class="utility-list">
+							<li class="header-login"><a href="#" class="login-btn" data-return-url="" data-button-type="1" data-omni="click" data-omni-type="gnb" data-omni-data="utility menu:login"><span class="util-ico ico-login"></span><span class="m-hide login-txt">로그인</span></a></li>
+							<li class="cart-area"><a href="#" class="btn-cart" data-omni="click" data-omni-type="gnb" data-omni-data="utility menu:cart"><span class="util-ico ico-cart">장바구니</span><span id="globalCartCount" class="m-hide">0</span><span class="blind">개의 상품 담김</span></a></li>
+							</ul>							
+						</div>
+					</nav>
+				</div>
+				<a href="#" class="header-btn-search" data-omni="click" data-omni-type="gnb" data-omni-data="search"><span class="ico-search">검색</span></a>
+				<form class="header-search">
+					<div class="search-form">
+						<input type="search" name="search-form-input" id="search-form-input" autocomplete="off" placeholder="Galaxy S7" title="통합검색 검색어" aria-label="검색어" class="search-input search-form-input">
+						<input type="hidden" id="hiddenSearch" class="hiddenSearch" value="Galaxy S7">
+						<div class="auto-complete search-form-ac">
+							<div class="auto-complete-wrap">
+								<p class="ac-message"></p>
+								<div class="popular">
+									<p class="auto-tit">인기 검색어 </p>
+									<ul></ul>
+								</div>
+								<div class="recently-viewed">
+									<p class="auto-tit">최근 검색어</p>
+									<ul></ul>
+								</div>
+							</div>
+						</div>
+						<button type="submit" class="btn-search"><span class="util-ico ico-search">검색</span></button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</header>
+	<!-- //header -->
+	<hr>
+
+	<!-- content -->
+	<div id="content" role="main">
+		<div class="loader ">
+			<div class="spinner">
+				<div class="bounce1"></div>
+				<div class="bounce2"></div>
+				<div class="bounce3"></div>
+			</div>
+		</div>
+    	<!-- IM area -->
+        
+    
+     	<div class="story-cluster top-area cluster-minheight">
+
+			<section class="section-wrap">
+            <h1 class="prd-heading left-to-right">스마트폰, 그 새로운 가능성</h1>
+				<div class="prd-item has-frame top-to-bot">
+					<a href="/sec/consumer/mobile-tablet/mobile-phone/galaxy-s/galaxy-s7/" class="prd-link" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster1_mobile_button1">
+						<div class="prd-frame">
+							<div class="prd-frame-inner">
+								<div class="animating-box">
+									<div class="top-border border"></div>
+									<div class="right-border border"></div>
+									<div class="bottom-border border"></div>
+									<div class="left-border border"></div>
+								</div>
+							</div>
+						</div>
+						<div class="prd-info">
+							<h2 class="prd-tit"><img src="/sec/common/img/home/logo-galaxy-s7s7edge.png" width="286" height="44" alt="Galaxy S7 edge s7"></h2>
+							<span class="button-prd">자세히 보기</span>
+						</div>
+						<figure class="prd-img">
+							<img class="js-img-lazy js-img-src" alt="" data-src-pc="/sec/common/img/home/image-galaxy-s7s7edge.png" data-src-mobile="/sec/common/img/home/image-galaxy-s7s7edge_2.png">
+							<noscript>
+								<img alt="Galaxy S7 edge" src="/sec/common/img/home-pc/image-galaxy-s7edge.png">
+							</noscript>
+						</figure>
+					</a>
+				</div>
+                <div class="prd-area">
+                <div class="prd-item prd-second top-to-bot">
+						<!-- a href="#" class="prd-link" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster1_mobile_button2"></a --> 
+							<div class="prd-info">
+								<h2 class="prd-tit" style="color:#fff;">The Next <br>Galaxy is Arriving.</h2>
+                                <!-- span class="button-prd" style="color:#fff; border-color:#fff;"><span class="blind">Galaxy 라이브 스트리밍</span>자세히 보기</span -->
+							</div>
+							<figure class="prd-img">
+								<img class="js-img-lazy js-img-src" alt="7 언팩 2016 : 8월 3일 Samsung.com에서 Galaxy 라이브 스트리밍 진행" data-src-pc="/sec/home/img/7unpacked_web.png" data-src-mobile="/sec/home/img/7unpacked_mobile.png">
+								<noscript>
+									<img alt="7 언팩 2016 : 8월 2일 Samsung.com에서 Galaxy 라이브 스트리밍 진행" src="/sec/home/img/7unpacked_web.png">
+								</noscript>
+								
+							</figure>
+						
+					</div>
+             
+					<div class="prd-item prd-third top-to-bot">
+						<a href="/sec/consumer/mobile-tablet/gear/gear-series/SM-R150NZKAKOO" class="prd-link" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster1_mobile_button3">
+							<div class="prd-info">
+								<h2 class="prd-tit">움직이자. 더 리드미컬하게<br><img src="/sec/common/img/home/logo_iconx.png" alt="Gear IconX"></h2>
+								<span class="button-prd"><span class="blind">기어 아이콘X</span>자세히 보기</span>
+							</div>
+							<figure class="prd-img">
+								<img class="js-img-lazy js-img-src" alt="기어 아이콘 X" data-src-pc="/sec/common/img/home/iconx.png" data-src-mobile="/sec/common/img/home/iconx_m.png">
+								<noscript>
+									<img alt="기어 아이콘 X" src="/sec/common/img/home/iconx.png">
+								</noscript>
+							</figure>
+						</a>
+					</div>
+                    
+                    <div class="prd-item prd-fourth top-to-bot">
+						<a href="/sec/consumer/mobile-tablet/gear/gear-series/SM-R3600DAAKOO" class="prd-link" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster1_mobile_button3">
+							<div class="prd-info">
+								<h2 class="prd-tit">움직이자. 더 다이나믹하게<br><img src="/sec/common/img/home/logo_gearFit2.png" alt="Gear Fit2"></h2>
+								<span class="button-prd"><span class="blind">Gear Fit2</span>자세히 보기</span>
+							</div>
+							<figure class="prd-img">
+								<img class="js-img-lazy js-img-src" alt="Gear Fit2" data-src-pc="/sec/common/img/home/gearFit2_2.png" data-src-mobile="/sec/common/img/home/gearFit2_m.png">
+								<noscript>
+									<img alt="기어 S2 Classic Premium" src="/sec/common/img/home/gearFit2_2.png">
+								</noscript>
+							</figure>
+						</a>
+					</div>
+                 
+                  <!--
+					<div class="prd-item prd-fourth top-to-bot">
+						<a href="/sec/consumer/mobile-tablet/gear/gear-series/SM-C200NZWAKOO" class="prd-link" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster1_mobile_button4">
+							<div class="prd-info">
+								<h2 class="prd-tit">360°로 마음껏,<br> 상상대로 마음껏</h2>
+								<span class="button-prd"><span class="blind">기어 360</span>자세히 보기</span>
+							</div>
+							<figure class="prd-img">
+								<img class="js-img-lazy js-img-src" alt="" data-src-pc="/sec/common/img/home/gear360_pc.png" data-src-mobile="/sec/home/img/gear360_m2.png">
+								<noscript>
+									<img alt="기어 360" src="/sec/common/img/home/gear360_pc.png">
+								</noscript>
+							</figure>
+						</a>
+					</div>
+                    
+                     <div class="prd-item prd-fourth top-to-bot">
+						<a href="/sec/consumer/accessories/mobile-accessories/mobile-accessories-others/EO-SG710CSKGKR" class="prd-link" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster1_mobile_button4">
+							<div class="prd-info">
+								<h2 class="prd-tit">소리와 빛, 그리고 디자인<br><img src="/sec/home/img/title_speaker.png" alt="보틀디자인 스피커"></h2>
+								<span class="button-prd">자세히 보기</span>
+							</div>
+							<figure class="prd-img">
+								<img class="js-img-lazy js-img-src" alt="보틀디자인 스피커" data-src-pc="/sec/home/img/speaker.png" data-src-mobile="/sec/home/img/speaker_m.png">
+								<noscript>
+									<img alt="보틀디자인 스피커 Speaker" src="/sec/home/img/speaker.png">
+								</noscript>
+							</figure>
+						</a>
+					</div>
+                    
+                    
+                     -->
+				</div>
+			</section>
+		</div>
+		<!-- //IM area -->
+
+		<!-- IM area -->
+		<div class="story-cluster middle-area cluster-minheight">
+
+			<section class="section-wrap">
+            <h1 class="prd-heading left-to-right">THIS IS TV</h1>
+				<div class="prd-item has-frame top-to-bot">
+					<a href="/sec/consumer/tv-video/tv/suhd-tv/UN65KS9500F" class="prd-link" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster2_vd_button1">
+						<div class="prd-frame">
+							<div class="prd-frame-inner">
+								<div class="animating-box">
+									<div class="top-border border"></div>
+									<div class="right-border border"></div>
+									<div class="bottom-border border"></div>
+									<div class="left-border border"></div>
+								</div>
+							</div>
+						</div>
+						<div class="prd-info">
+							<h2 class="prd-tit">퀀텀닷 초밀도 화질</h2>
+							<span class="button-prd"><span class="blind">커브드 SUHD TV UN65KS9500F </span>자세히 보기</span>
+						</div>
+						<figure class="prd-img">
+							<img class="js-img-lazy js-img-src" alt="" data-src-pc="/sec/common/img/home-pc/image-suhd-tv-UN65KS9500F-logo.png" data-src-mobile="/sec/common/img/home/image-suhd-tv-UN65KS9500F.png">
+							<noscript>
+								<img alt="커브드 SUHD TV UN65KS9500F" src="/sec/common/img/home-pc/image-suhd-tv-UN65KS9500F-logo.png">
+							</noscript>
+						</figure>
+					</a>
+				</div>
+				<div class="prd-area">
+					<div class="prd-item prd-second top-to-bot">
+						<a href="/sec/consumer/tv-video/serif-tv/" class="prd-link" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster2_vd_button2">
+							<div class="prd-info">
+								<h2 class="prd-tit">SERIF TV,<br>기술과 생활공간의 거리를<br>가깝게 하다</h2>
+								<span class="button-prd"><span class="blind">SERIF TV</span>자세히 보기</span>
+							</div>
+							<figure class="prd-img">
+								<img class="js-img-lazy js-img-src" alt="" data-src-pc="/sec/common/img/home/Serif_TV_pc.png" data-src-mobile="/sec/common/img/home/Serif_TV.png">
+								<noscript>
+									<img alt="커브드 UHD TV JU7550F" src="/sec/common/img/home/Serif_TV_pc.png">
+								</noscript>
+							</figure>
+						</a>
+					</div>
+					<div class="prd-item prd-third top-to-bot">
+						<a href="/sec/consumer/tv-video/av/audio/WAM7501/KR/" class="prd-link" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster2_vd_button3">
+							<div class="prd-info">
+								<h2 class="prd-tit">공간을 균형있게 울리는<br>360˚ 사운드</h2>
+								<span class="button-prd"><span class="blind">무선 360 오디오 WAM7501</span>자세히 보기</span>
+							</div>
+							<figure class="prd-img">
+								<img class="js-img-lazy js-img-src" alt="" data-src-pc="/sec/common/img/home-pc/image-curved.png" data-src-mobile="/sec/common/img/home/image-curved.png">
+								<noscript>
+									<img alt="무선 360 오디오 WAM7501" src="/sec/common/img/home-pc/image-curved.png">
+								</noscript>
+							</figure>
+						</a>
+					</div>
+					<div class="prd-item prd-fourth top-to-bot">
+						<a href="javascript:;" class="prd-link js-youtube-btn-play" data-video-id="LkInI84DDsE" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster2_vd_video4">
+							<div class="prd-info">
+								<h2 class="prd-tit blind">THIS IS TV</h2>
+							</div>
+							<figure class="prd-img">
+								<img class="js-img-lazy js-img-src" alt="" data-src-pc="/sec/common/img/home-pc/image-video-thumnail2_p.jpg" data-src-mobile="/sec/common/img/home/image-video-thumnail2_m.jpg">
+								<noscript>
+									<img alt="THIS IS TV 동영상" src="/sec/common/img/home-pc/image-video-thumnail2_p.jpg">
+								</noscript>
+								<span class="button-media"><span>THIS IS TV</span><span class="blind">동영상 보기</span></span>
+							</figure>
+						</a>
+					</div>
+					<div class="video-area">
+						<div class="video-wrap">
+							<iframe class="grids-video-player js-youtube-container" frameborder="0" allowfullscreen="1" title="YouTube video player" width="640" height="360" src="about:blank"></iframe>
+							<button type="button" class="button-close js-youtube-btn-close">비디오 끄기</button>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+
+		<!-- //IM area -->
+
+		<!-- IM area -->
+		<div class="story-cluster bottom-area cluster-minheight">
+
+			<section class="section-wrap">
+            <h1 class="prd-heading left-to-right">스마트 홈, 스마트 라이프</h1>
+				<div class="prd-item has-frame left-to-right">
+					<a href="/sec/consumer/kitchen-appliances/refrigerators/chef-collection/RF85K9993SG/" class="prd-link" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster3_ha_button1">
+						<div class="prd-frame">
+							<div class="prd-frame-inner">
+								<div class="animating-box">
+									<div class="top-border border"></div>
+									<div class="right-border border"></div>
+									<div class="bottom-border border"></div>
+									<div class="left-border border"></div>
+								</div>
+							</div>
+						</div>
+						<div class="prd-info">
+							<h2 class="prd-tit">삶의 방식을 바꾸는<br> 새로운 냉장고<br> 패밀리 허브</h2>
+							<span class="button-prd">자세히 보기</span>
+						</div>
+						<figure class="prd-img">
+							<img class="js-img-lazy js-img-src" alt="패밀리 허브 냉장고" data-src-pc="/sec/common/img/home-pc/image-refriderator-RF85K9993SG.png" data-src-mobile="/sec/common/img/home/image-refriderator-RF85K9993SG.png">
+							<noscript>
+								<img alt="패밀리 허브 냉장고" src="/sec/common/img/home-pc/image-refriderator-RF85K9993SG.png">
+							</noscript>
+						</figure>
+					</a>
+				</div>
+				<div class="prd-area">
+					<div class="prd-item prd-second top-to-bot">
+						<a href="/sec/consumer/living-appliances/airconditioners/floorstanding/AF25K9970GFK" class="prd-link" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster3_ha_button2">
+							<div class="prd-info" style="top:7%; left:5%;">
+								<h2 class="prd-tit" style="color:#fff;">무풍 냉방으로<br>바람없이 시원하게</h2>
+                                <span class="button-prd" style="color:#fff; border-color:#fff;"><span class="blind">AF25K9970GFK </span>자세히 보기</span>
+							</div>
+							<figure class="prd-img">
+								<img class="js-img-lazy js-img-src" alt="무풍에어컨 AF25K9970GFK" data-src-pc="/sec/common/img/home-pc/image-video-thumnail3-0502.jpg" data-src-mobile="/sec/common/img/home/image-video-thumnail3-0502.jpg">
+								<noscript>
+									<img alt="무풍에어컨 AF25K9970GFK" src="/sec/common/img/home-pc/image-video-thumnail3-0502.jpg">
+								</noscript>
+								
+							</figure>
+						</a>
+					</div>
+				
+					<div class="prd-item prd-third top-to-bot">
+						<a href="/sec/consumer/living-appliances/washers-dryers/bubble-shot/WD21J9840KV" class="prd-link" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster3_ha_button3">
+							<div class="prd-info">
+								<h2 class="prd-tit">세탁물 추가할 때<br>언제든지 애드워시</h2>
+								<span class="button-prd"><span class="blind">버블샷 애드워시</span>자세히 보기</span>
+							</div>
+							<figure class="prd-img">
+								<img class="js-img-lazy js-img-src" alt="버블샷 애드워시" data-src-pc="/sec/home/img/addwash.png" data-src-mobile="/sec/home/img/addwash_m.png">
+								<noscript>
+									<img alt="버블샷 애드워시" src="/sec/home/img/addwash.png">
+								</noscript>
+							</figure>
+						</a>
+					</div>
+					<div class="prd-item prd-fourth top-to-bot">
+						<a href="/sec/consumer/living-appliances/vacuumcleaners/powerstick/VS60K6070KW" class="prd-link" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster3_ha_button4">
+							<div class="prd-info">
+								<h2 class="prd-tit">매일 하는 청소<br>파워스틱으로 끝</h2>
+								<span class="button-prd"><span class="blind">VS60K6070KW 파워스틱 청소기</span>자세히 보기</span>
+							</div>
+							<figure class="prd-img">
+								<img class="js-img-lazy js-img-src" alt="VS60K6070KW 파워스틱 청소기" data-src-pc="/sec/common/img/home-pc/image-stick.png" data-src-mobile="/sec/common/img/home/image-stick.png">
+								<noscript>
+									<img alt="VS60K6070KW 파워스틱 청소기" src="/sec/common/img/home-pc/image-stick.png">
+								</noscript>
+							</figure>
+						</a>
+					</div>
+				</div>
+			</section>
+		</div>
+        
+        <!-- single area  -->
+            <div class="story-cluster single-area">
+                <section class="section-wrap">
+                    <div class="prd-item type-2">
+                        <div class="prd-text-area">
+                            <div class="prd-vertical-wrap">
+                                <div class="prd-info top-to-bot">
+                                    <h1 class="prd-tit">
+                                      액세서리와 웨어러블 편집숍, 삼성 WA 닷컴
+                                    </h1>
+                                    <p class="prd-txt">
+                                     평범한 공간에 감각을 더해주는 유니크한 액세서리를 만나보자
+                                    </p>
+                                    <a href="http://www.samsungwa.com" target="_blank" title="새 창" class="button-prd" data-omni="click" data-omni-type="us_style" data-omni-data="home:cluster_wassup_20160629">자세히 보기</a>
+                                </div>
+                            </div>
+                        </div>
+                        <figure class="prd-img top-to-bot">
+                            <img class="js-img-lazy js-img-src" alt="" data-src-pc="/sec/home/img/WAcom.png" data-src-mobile="/sec/home/img/WAcom_m.png">
+                            <noscript>
+                                <img src="/sec/home/img/WAcom.png" alt="">
+                            </noscript>
+                        </figure>
+                    </div>
+                </section>
+            </div>
+         <!--  //single area -->
+		<!-- //HA area -->
+	</div>
+	<!-- //content -->
+
+	<!-- Disclaimer area -->
+	<div class="privacy" style="display:none">
+		<strong class="blind">면책 영역</strong>
+		<p>&copy; 2015 삼성 전자 한국 주식 삼성 전자, 갤럭시 노트, S펜 및 기어 S 모든 상표 또는 법률에 따라 삼성 전자 (주), (주) 사용의 등록 상표입니다. 다른 언급된 회사 및 제품 이름은 해당 소유자의 상표 일 수 있습니다.</p>
+		<p>당신이 받은 및 / 또는 새로운 삼성 갤럭시 스마트 폰에 대한 자동차 포장 캠페인에 참여하기로 동의 한 경우, 888-987-HELP를 호출합니다. 이것은 합법적인 삼성 캠페인이 아닙니다.</p>
+		<p>우리는 최근에 <a href="#">여기</a>를 클릭하십시오.</p>
+	</div>
+	<!-- //Disclaimer area -->
+
+	<hr>
+
+	<!-- Omniture Tagging -->
+	<input id="pageTrack" name="pageTrack" type="hidden" value="home"/>
+	<!-- //Omniture Tagging -->
+
+	<!-- footer -->
+		<!--  Login POPUP -->
+
+	<script>
+		var LOGIN = {
+				msg : {
+					signBtnText1 : '로그인',
+					signBtnText2 : '로그아웃',
+					
+					errorTitleText : '접근할 수 없습니다.',
+					errorText1 : '불편을 끼쳐 드려 죄송하지만 계정이 차단되었습니다. 추가 지원에 대해서 고객센터(1588-3366)에 문의하시기 바랍니다. 감사합니다.',
+					errorText2 : '불편을 끼쳐 드려 죄송하지만 계정이 차단되었습니다. 추가 지원에 대해서 고객센터(1588-3366)에 문의하시기 바랍니다. 감사합니다.',
+					errorText3 : '불편을 끼쳐 드려 죄송합니다. 일시적인 문제가 발생하였습니다. 추가 지원에 대해서 고객센터(1588-3366)에 문의하시기 바랍니다. 감사합니다.',
+					errorText4 : '현재 로그인 및 e 커머스 기능은 시스템 관리로 인해 이용할 수 없습니다.'
+					
+				}
+		};
+	</script>
+
+
+
+	<!-- 회원로그인 폼 (한글)-->
+
+	<form id="loginForm" name="loginForm" method="post" action="https://account.samsung.com/account/check.do">
+		<input type="hidden" name="actionID" value="StartAP" />
+		<input type="hidden" name="serviceID" value="z734ero6v9" />
+		<input type="hidden" name="serviceName" value="삼성전자 대표사이트(한국)" />
+		<input type="hidden" name="domain" value="www.samsung.com" />
+		<input type="hidden" name="countryCode" value="KR" />
+		<input type="hidden" name="languageCode" value="ko" />
+		<input type="hidden" name="registURL" value="https://local.sec.samsung.com/comLocal/loginCheck.do" />
+		<input type="hidden" name="returnURL" id="returnURL" value="" />
+		<input type="hidden" name="goBackURL" id="goBackURL" value="" />
+		<input type="hidden" name="ssoType" value="OPT_VAL" />
+		<input type="hidden" name="svcIptLgnID" id="userId" value="" />
+		<input type="hidden" name="svcIptLgnPD" id="userPass" value="" />
+		<input type="hidden" name="emailActivationURL" value="http://www.samsung.com:80/sec/emailActivationURL"/>
+	</form>
+
+	<!-- 회원가입 폼 -->
+	<form id="joinForm" name="joinForm" method="post" action="https://account.samsung.com/account/check.do">
+		<input type="hidden" name="actionID" value="SignupAP" />
+		<input type="hidden" name="serviceID" value="z734ero6v9" />
+		<input type="hidden" name="serviceName" value="삼성전자 대표사이트(한국)" />
+		<input type="hidden" name="domain" value="www.samsung.com" />
+		<input type="hidden" name="countryCode" value="KR" />
+		<input type="hidden" name="languageCode" value="ko" />
+		<input type="hidden" name="registURL" value="https://local.sec.samsung.com/comLocal/loginCheck.do" />
+		<input type="hidden" name="returnURL" id="joinReturnURL" value="" />
+		<input type="hidden" name="goBackURL" id="joinGoBackURL" value="" />
+		<input type="hidden" name="ssoType" value="OPT_VAL" />
+		<input type="hidden" name="emailActivationURL" value="http://www.samsung.com:80/sec/emailActivationURL"/>
+	</form>
+
+	<!-- Find Email 폼 -->
+	<form id="findAccountForm" name="findAccountForm" method="post" action="https://account.samsung.com/account/check.do">
+		<input type="hidden" name="actionID" value="FindEmail" />
+		<input type="hidden" name="serviceID" value="z734ero6v9" />
+		<input type="hidden" name="serviceName" value="삼성전자 대표사이트(한국)" />
+		<input type="hidden" name="domain" value="www.samsung.com" />
+		<input type="hidden" name="countryCode" value="KR" />
+		<input type="hidden" name="languageCode" value="ko" />
+		<input type="hidden" name="goBackURL" id="findGoBackURL" value="" />
+		<input type="hidden" name="ssoType" value="OPT_VAL" />
+	</form>
+
+	<!-- 회원탈퇴 폼 -->
+
+
+	<!-- 회원정보 수정 폼 -->
+
+
+	<div class="layer_popup" id="loginLayerPopup" style="display: none;">
+		<div id="sign_wrap" class="popAlign" style="top: 80px; left: 382px;">
+			<form action="#" method="post" name="SloginForm" id="SloginForm">
+				<fieldset>
+					<legend>로그인</legend>
+					<div class="sign-inner-wrap">
+						<div class="title">로그인</div>
+						<div class="popup_cont">
+							<h2 class="sub-tit">삼성 계정으로 로그인</h2>
+	                        <div class="input-wrap">
+	                        	<label for="E-mail">ID(이메일 또는 전화번호)</label>
+								<div class="input">
+			                        <input type="text" class="sign_input" name="E-mail" id="E-mail" data-focus-id="email" data-tab-previous="shop-popover-close" autocomplete="off" maxlength="100">
+			                    </div>
+	                        </div>
+	                        <!-- [DEV] : error 메시지 영역입니다. -->
+							<p class="error" id="errorId" style="display: none;"><span class="icon-alert"></span>ID를 입력하세요.</p>
+	                        <div class="chk">
+	                            <input type="checkbox" name="accept-terms" id="acceptRemember">
+	                            <label for="acceptRemember">ID 저장</label>
+	                        </div>
+	                        <div class="input-wrap mgt15">
+	                        	<label for="pw">비밀번호</label>
+								<div class="input">
+			                        <input type="password" class="sign_input" name="pw" id="pw" autocomplete="off" maxlength="100">
+			                    </div>
+	                        </div>
+	                        <!-- [DEV] : error 메시지 영역입니다. -->
+							<p class="error" id="errorPw" style="display: none;"><span class="icon-alert"></span>비밀번호를 입력하세요. </p>
+	                        <p class="sign-link"><a href="javascript:void(0);" class="cta find-account-btn">ID / 비밀번호 찾기<span class="icon-link-play"></span></a></p>
+	                        <div class="btn-wrap ac">
+	                        	<a href="javascript:void(0);" class="button sign-in-btn">로그인</a>
+	                        	<p>아직 회원이 아니세요? <a href="javascript:void(0);" class="cta sign-up-btn">회원가입 <span class="icon-link-play"></span></a></p>
+	                        </div>
+	                        <div class="connect_wrap" style="display:none">
+	                        	<div class="connet-tit">SNS 계정으로 로그인하기</div>
+	                        	<div class="sns-wrap">
+	                        		<iframe src="" id="snsIframe" width="100%" height="40" frameborder="0" scrolling="no" title="빈 프레임"></iframe>
+	                    		</div>
+		                        <!-- [Dev] 140212 마크업 수정 -->
+		                   		<div class="toggle-layer">                	
+				                	<a href="javascript:void(0);" class="toggle signToggle"  id="signToggleArrow">
+				                		<span class="toggle-tit">SNS 로그인</span>
+			                			<span class="icon-down-arrow"> <!-- msg:code common.notice.expand.wcag --></span>
+			                			<!--<span class="icon-down-arrow icon-up-arrow">addclass icon-up-arrow, msg:code common.notice.collapse.wcag</span> -->
+		                			</a>
+				                    <div class="toggle-content">
+				                    	<p>SNS 로그인을 사용하시려면 삼성 계정으로 로그인 하신 후, 회원 정보에서 SNS 계정을 연결하세요.</p>
+				                    </div>
+				                </div>
+								<!-- // [Dev] 140212 마크업 수정 -->
+	                        </div>
+						</div>
+						<button class="close-button icon-close-x login-close-btn" data-focus-id="shop-popover-close" data-tab-next="email" tabindex="0"><span class="blind">닫기</span></button>
+					</div>
+				</fieldset>
+			</form>
+		</div>
+
+	</div>
+
+	<!-- <div class="layer_popup" id="privacyPopup" style="display: none;">
+		<div id="popup_privacy" class="popAlign">
+			<form action="#" method="post" name="" id="">
+				<fieldset>
+					<legend>개인정보 처리 방침</legend>
+					<div class="popup_wrap">
+						<div class="popup_title">개인정보 처리 방침</div>
+						<div class="popup_cont">
+							<div class="privacy_wrap">
+								<div class="check_box">
+									<input type="checkbox" name="privacy-terms" id="privacy-terms">
+									<label for="privacy-terms" class="check_text">삼성전자 대표사이트 정보 수신에 동의합니다. <a href="/uk/info/privacy.html" target="_blank" class="privacy_link">개인정보 처리 방침 상세 보기</a></label>
+									// ERROR : 체크하지 않고 PROCEED TO STORE 버튼 클릭시 노출시킴
+									<p class="check_error" id="errorPrivacy" style="display: none;">삼성전자 대표사이트를 살펴보려면 동의를 선택하세요.</p>
+									// ERROR : 체크하지 않고 PROCEED TO STORE 버튼 클릭시 노출시킴 :끝
+								</div>
+								<div class="check_box">
+									<input type="checkbox" name="privacy-terms2" id="privacy-terms2">
+									<label for="privacy-terms2" class="check_text">삼성전자 대표사이트 서비스 및 마케팅 정보로 신제품 및 서비스 발표뿐만 아니라 특별 행사, 이벤트 및 뉴스 레터에 대한 알림을 포함합니다.</label>
+									<p class="check_txt"></p>
+								</div>
+								<div class="privacy_btn">
+									<a href="javascript:void(0)" class="button" id="privacyBtn">동의</a>
+									<a href="javascript:void(0)" class="button login-leave-btn">미동의</a>
+								</div>
+							</div>
+						</div>
+						<button class="close-button icon-close-x login-leave-btn" data-focus-id="shop-popover-close" data-tab-disable="true" tabindex="0">
+							<span class="blind">개인정보 처리 방침 닫기</span>
+						</button>
+					</div>
+				</fieldset>
+			</form>
+		</div>
+	</div>
+
+	<div class="layer_popup" id="preferencePopup" style="display: none;">
+		<div id="popup-type04" class="popAlign">
+			<div class="popup_wrap">
+				<h2 class="pop-tit">부가 정보 수정 요청</h2>
+				<p class="msg-text">삼성 닷컴과 E-Store의 웹 사이트가 통합되었습니다. <br>고객님의 부가 정보를 최신 정보로 업데이트 해 주세요.</p>
+				<div class="pop-btn">
+					<a href="javascript:void(0)" class="button" id="preferenceCheckBtn" title="Go to preference check page ">부가정보 수정하기</a>
+					<a href="javascript:void(0)" class="button login-close-btn" title="Preference check later">나중에 수정하기</a>
+				</div>
+				<button class="close-button icon-close-x login-close-btn" data-focus-id="shop-popover-close" data-tab-disable="true" tabindex="0">
+					<span class="blind">Preference Check Close</span>
+				</button>
+			</div>
+		</div>
+	</div> -->
+
+	<div class="layer_popup" id="confirmPopup" style="display: none;">
+		<div id="popup-type02" class="popAlign">
+			<div class="popup_wrap">
+				<h2 class="pop-tit">회원 자격 제한</h2>
+				<p class="msg-text tc"></p>
+				<div class="pop-btn">
+					<a href="javascript:void(0)" class="button login-leave-btn" title="No Access OK">OK</a>
+				</div>
+				<button class="close-button icon-close-x login-leave-btn" data-focus-id="shop-popover-close" data-tab-disable="true" tabindex="0">
+					<span class="blind">접근할 수 없습니다. 닫기</span>
+				</button>
+			</div>
+		</div>
+	</div>
+
+	<!-- Add NextGen Store Cart -->
+	<div class="layer_popup">
+		<div id="gloval_message_popup" class="popup-nextgen-type popAlign">
+			<div class="popup_wrap">
+				<p class="msg-text tc">죄송합니다, 장바구니가 가득찼습니다.</p>
+				<div class="pop-btn">
+					<a href="#" class="button">OK</a>
+				</div>
+				<button class="close-button icon-close-x" data-focus-id="shop-popover-close" data-tab-disable="true" tabindex="0">
+					<span class="blind">레이어 팝업 닫기</span>
+				</button>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="layer_popup">
+		<div id="popup_delete_product_cart" class="popup-nextgen-type popAlign">
+			<div class="popup_wrap">
+				<h1 class="pop-tit">제품 삭제</h1>
+				<p class="msg-text">제품이 장바구니에서 삭제됩니다.<br>제품을 삭제하시겠습니까?</p>
+				<div class="pop-btn">
+					<a href="#" class="button" id="btnMoveToWishList" onclick="javascript: removeConfirmButton('Y');">위시리스트에 담기</a>
+					<a href="#" class="button gray" onclick="javascript: removeConfirmButton('N');">삭제</a>
+				</div>
+				<button class="close-button icon-close-x" data-focus-id="shop-popover-close" data-tab-disable="true" tabindex="0">
+					<span class="blind">레이어 팝업 닫기</span>
+				</button>
+			</div>
+		</div>
+	</div>
+	<!-- // Add NextGen Store Cart -->
+
+
+	<div class="layer_popup">
+		<div id="popup_alert" class="popup-nextgen-type popAlign">
+			<div class="popup_wrap">
+				<p class="msg-text tc"></p>
+				<div class="pop-btn">
+					<a href="javascript:void(0);" class="button alert-ok-button">OK</a>
+				</div>
+				<button class="close-button icon-close-x" data-focus-id="shop-popover-close" data-tab-disable="true" tabindex="0">
+					<span class="blind">레이어 팝업 닫기</span>
+				</button>
+			</div>
+		</div>
+	</div>
+
+	<div id="dimContainer">
+		<div class="lightbox-skrim" style="display:none"></div>
+	</div>
+
+	<footer id="footer" class="footer" role="contentinfo">
+		<div class="footer-wrap">
+			<div class="footer-inner">
+				<div class="footer-left">
+									<a href="#" class="back-top" onclick="sendClickCode('jumpto','back to top:footer');">위로</a>
+					<h3 class="footer-m-title">제품정보</h3>
+					<a href="#" class="footer-nav-btn"><span class="blind">메뉴 열림</span></a>
+					<ul class="footer-shoplist">
+					<li class="m-hide"><a href="/sec/home/" data-omni="click" data-omni-type="footer" data-omni-data="footer:samsungcom">삼성닷컴</a></li>
+					<li class="m-hide"><a href="/sec/shop/" data-omni="click" data-omni-type="footer" data-omni-data="footer:shop">스토어</a></li>
+					</ul>
+
+					<div class="footer-nav">
+						<div class='footer-column'> 
+	<div class='footer-nav-item'>
+		<h4 class='footer-nav-title'>
+			<a href='/sec/consumer/mobile-tablet/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_mobile-tablet'>&#55092;&#45824;&#54256;/&#53468;&#48660;&#47551;</a>
+		</h4>
+		<a href='#' class='footer-nav-btn'><span class='blind'>Open sub menu</span></a>
+			<ul class='footer-nav-list'>
+				<li class='only-mobile'><a href='/sec/consumer/mobile-tablet/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_mobile-tablet_mobile-tablet-more'>&#55092;&#45824;&#54256;/&#53468;&#48660;&#47551; &#45908;&#48372;&#44592;</a></li>
+				<li><a href='/sec/consumer/mobile-tablet/mobile-phone/galaxy-s/galaxy-s7/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_mobile-tablet_galaxy s7'>&#44068;&#47085;&#49884; S7</a></li>
+				<li><a href='/sec/consumer/mobile-tablet/mobile-phone/filter/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_mobile-tablet_mobile-phone'>&#49828;&#47560;&#53944;&#54256;</a></li>
+				<li><a href='/sec/consumer/mobile-tablet/tablet/filter/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_mobile-tablet_tablet'>&#53468;&#48660;&#47551;</a></li>
+				<li><a href='/sec/consumer/mobile-tablet/windows-tablet/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_mobile-tablet_windows-tablet'>&#50952;&#46020;&#50864; &#53468;&#48660;&#47551;</a></li>
+				<li><a href='/sec/consumer/mobile-tablet/gear' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_mobile-tablet_gear'>&#44592;&#50612;</a></li>
+				<li><a href='/sec/apps/mobile/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_mobile-tablet_contents'>&#53080;&#53584;&#52768;</a></li>
+			</ul>
+	</div>
+	<div class='footer-nav-item'>
+		<h4 class='footer-nav-title'>
+			<a href='/sec/consumer/tv-video/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_tv video'>TV/AV/SERIF TV</a>
+		</h4>
+		<a href='#' class='footer-nav-btn'><span class='blind'>Open sub menu</span></a>
+			<ul class='footer-nav-list'>
+				<li class='only-mobile'><a href='/sec/consumer/tv-video/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_tv video_tv-audio-more'>TV/AV/SERIF TV &#45908;&#48372;&#44592;</a></li>
+				<li><a href='/sec/consumer/tv-video/tv/filter/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_tv video_tv'>TV</a></li>
+				<li><a href='/sec/consumer/tv-video/av' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_tv video_av'>AV</a></li>
+				<li><a href='/sec/consumer/tv-video/serif-tv' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_tv video_serif-tv'>SERIF TV</a></li>
+			</ul>
+	</div>
+</div>
+<div class='footer-column'> 
+	<div class='footer-nav-item'>
+		<h4 class='footer-nav-title'>
+			<a href='/sec/consumer/kitchen-appliances/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_kitchen-appliances'>&#51452;&#48169;&#44032;&#51204;</a>
+		</h4>
+		<a href='#' class='footer-nav-btn'><span class='blind'>Open sub menu</span></a>
+			<ul class='footer-nav-list'>
+				<li class='only-mobile'><a href='/sec/consumer/kitchen-appliances/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_kitchen-appliances_kitchen-appliances-more'>&#51452;&#48169;&#44032;&#51204; &#45908;&#48372;&#44592;</a></li>
+				<li><a href='/sec/consumer/kitchen-appliances/refrigerators/filter/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_kitchen-appliances_refrigerators'>&#45257;&#51109;&#44256;</a></li>
+				<li><a href='/sec/consumer/kitchen-appliances/kimchi-refrigerator/filter/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_kitchen-appliances_kimchi-refrigerator'>&#44608;&#52824;&#45257;&#51109;&#44256;</a></li>
+				<li><a href='/sec/consumer/kitchen-appliances/oven-microwaves' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_kitchen-appliances_oven-microwaves'>&#50724;&#48656;/&#51204;&#51088;&#47112;&#51064;&#51648;</a></li>
+				<li><a href='/sec/consumer/kitchen-appliances/built-in-appliances' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_kitchen-appliances_built-in appliances'>&#48716;&#53944;&#51064; &#44032;&#51204;</a></li>
+			</ul>
+	</div>
+	<div class='footer-nav-item'>
+		<h4 class='footer-nav-title'>
+			<a href='/sec/consumer/living-appliances/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_living-appliances'>&#49373;&#54876;&#44032;&#51204;</a>
+		</h4>
+		<a href='#' class='footer-nav-btn'><span class='blind'>Open sub menu</span></a>
+			<ul class='footer-nav-list'>
+				<li class='only-mobile'><a href='/sec/consumer/living-appliances/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_living-appliances_living-appliances-more'>&#49373;&#54876;&#44032;&#51204; &#45908;&#48372;&#44592;</a></li>
+				<li><a href='/sec/consumer/living-appliances/airconditioners' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_living-appliances_airconditioners'>&#50640;&#50612;&#52968;</a></li>
+				<li><a href='/sec/consumer/living-appliances/washers-dryers/filter/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_living-appliances_washers-dryers'>&#49464;&#53441;&#44592;</a></li>
+				<li><a href='/sec/consumer/living-appliances/vacuumcleaners' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_living-appliances_vacuumcleaners'>&#52397;&#49548;&#44592;</a></li>
+				<li><a href='/sec/consumer/living-appliances/air-cleaner' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_living-appliances_air-cleaner'>&#44277;&#44592;&#52397;&#51221;&#44592;/&#51228;&#49845;&#44592;</a></li>
+				<li><a href='/sec/consumer/living-appliances/small-appliances' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_living-appliances_small-appliances'>&#49548;&#54805;&#44032;&#51204;</a></li>
+			</ul>
+	</div>
+</div>
+<div class='footer-column'> 
+	<div class='footer-nav-item'>
+		<h4 class='footer-nav-title'>PC/&#54532;&#47536;&#53552;/&#52852;&#47700;&#46972;</h4>
+		<a href='#' class='footer-nav-btn'><span class='blind'>Open sub menu</span></a>
+			<ul class='footer-nav-list'>
+				<li><a href='/sec/consumer/it/notebook' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_it_notebook'>&#45432;&#53944;&#48513;</a></li>
+				<li><a href='/sec/consumer/it/allinone-desktop' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_it_allinone-desktop'>&#50732;&#51064;&#50896;PC/&#45936;&#49828;&#53356;&#53457;</a></li>
+				<li><a href='/sec/consumer/it/display' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_it_display'>&#47784;&#45768;&#53552;</a></li>
+				<li><a href='/sec/consumer/it/printers-multifunction' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_it_printers-multifunction'>&#54532;&#47536;&#53552;/&#53664;&#45320;/&#49548;&#47784;&#54408;</a></li>
+				<li><a href='/sec/consumer/it/camera-lens' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_it_camera-lens'>&#52852;&#47700;&#46972;/&#47116;&#51592;</a></li>
+			</ul>
+	</div>
+	<div class='footer-nav-item'>
+		<h4 class='footer-nav-title'>
+			<a href='/sec/consumer/memory-storage/memory-storage/filter/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_memory-storage'>&#47700;&#47784;&#47532;/&#49828;&#53664;&#47532;&#51648;</a>
+		</h4>
+		<a href='#' class='footer-nav-btn'><span class='blind'>Open sub menu</span></a>
+			<ul class='footer-nav-list'>
+				<li class='only-mobile'><a href='/sec/consumer/memory-storage/memory-storage/filter/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_memory-storage_memory-more'>&#47700;&#47784;&#47532;/&#49828;&#53664;&#47532;&#51648; &#45908;&#48372;&#44592;</a></li>
+				<li><a href='/sec/consumer/memory-storage/memory-storage/ssd/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_memory-storage_ssd'>SSD</a></li>
+				<li><a href='/sec/consumer/memory-storage/memory-storage/portable-ssd/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_memory-storage_portable-ssd'>&#54252;&#53552;&#48660; SSD</a></li>
+				<li><a href='/sec/consumer/memory-storage/memory-storage/memory/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_memory-storage_memory'>&#47700;&#47784;&#47532;&#52852;&#46300;</a></li>
+				<li><a href='/sec/consumer/memory-storage/memory-storage/usb-flash-drive/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_memory-storage_usb-flash-drive'>USB Flash Drive</a></li>
+				<li><a href='/sec/consumer/memory-storage/memory-storage/ex-hdd/' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_memory-storage_ex-hdd'>&#50808;&#51109;HDD</a></li>
+			</ul>
+	</div>
+</div>
+<div class='footer-column'> 
+	<div class='footer-nav-item'>
+		<h4 class='footer-nav-title'>&#50529;&#49464;&#49436;&#47532;</h4>
+		<a href='#' class='footer-nav-btn'><span class='blind'>Open sub menu</span></a>
+			<ul class='footer-nav-list'>
+				<li><a href='/sec/consumer/accessories/mobile-accessories' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_accessories_mobile-accessories'>&#55092;&#45824;&#54256;/&#53468;&#48660;&#47551; &#50529;&#49464;&#49436;&#47532;</a></li>
+				<li><a href='/sec/consumer/accessories/tv-accessories' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_accessories_tv-accessories'>TV &#50529;&#49464;&#49436;&#47532;</a></li>
+				<li><a href='/sec/consumer/accessories/pc-accessories' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_accessories_pc-accessories'>PC &#50529;&#49464;&#49436;&#47532;</a></li>
+				<li><a href='/sec/consumer/accessories/printer-accessories' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_accessories_printer-accessories'>&#54532;&#47536;&#53552; &#50529;&#49464;&#49436;&#47532;</a></li>
+				<li><a href='/sec/consumer/accessories/kimchi-refrigerator-accessories' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_accessories_kimchi refrigerator accessories'>&#44608;&#52824;&#45257;&#51109;&#44256; &#50529;&#49464;&#49436;&#47532;</a></li>
+				<li><a href='/sec/consumer/accessories/air-cleaner-accessories' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_accessories_air-cleaner-accessories'>&#44277;&#44592;&#52397;&#51221;&#44592; &#50529;&#49464;&#49436;&#47532;</a></li>
+				<li><a href='/sec/consumer/accessories/smarthome-accessories' data-omni='click' data-omni-type='footer' data-omni-data='footer:consumer_accessories_smarthome-accessories'>&#49828;&#47560;&#53944;&#54856; &#50529;&#49464;&#49436;&#47532;</a></li>
+			</ul>
+	</div>
+</div>
+
+					</div>
+				</div>
+				<div class="footer-right">
+					<div class="footer-nav">
+						<style>
+#footer .footer-right .footer-column{width:100%; margin-bottom: 10%;}
+#footer ul.etc li {
+    float: left;
+    width: 50%;
+}
+@media screen and (max-width: 1024px){
+#footer .footer-right .footer-column{width:50%; margin-bottom:5%;}
+}
+@media screen and (max-width: 764px){
+#footer .footer-right .footer-column{width:100%; margin-bottom:0;}
+}
+
+</style>
+
+  <div class="footer-column">
+	  <div class="footer-nav-item">
+		  <h3 class="footer-nav-title">기타</h3>
+		  <a href="#" class="footer-nav-btn"><span class="blind" data-omni="click" data-omni-type="footer" data-omni-data="footer:etc">메뉴 열림</span></a>
+		  <ul class="footer-nav-list etc">
+		   <li><a href="/sec/news/" data-omni="click" data-omni-type="footer" data-omni-data="footer:news">뉴스</a></li>
+		  <li><a href="http://store.samsung.com/sec/ng/help/faq" data-omni="click" data-omni-type="footer" data-omni-data="footer:faq">스토어 FAQ</a></li>
+		  <li><a href="http://local.sec.samsung.com/comLocal/bbs/notice/index.do" data-omni="click" data-omni-type="footer" data-omni-data="footer:notice">공지사항</a></li>
+		  <li><a href="http://store.samsung.com/sec/ng/my-samsung/my-order" data-omni="click" data-omni-type="footer" data-omni-data="footer:my orders">주문/배송</a></li>
+		  <li><a href="http://store.samsung.com/sec/ng/smartAcademy/" target="_self" data-omni="click" data-omni-type="footer" data-omni-data="footer:smartacademy">스마트 아카데미</a></li>
+		  <li><a href="javascript:pop6();" title="새 창" data-omni="click" data-omni-type="footer" data-omni-data="footer:safebuy">구매안전서비스</a></li>
+		  <li><a href="http://membership.samsung.com/sec/" target="_blank" data-omni="click" data-omni-type="footer" data-omni-data="footer:membership" title="새 창" >삼성전자 멤버십</a></li>
+		  <li><a href="http://www.samsungsales.co.kr/main/main.sesc" target="_blank" title="삼성전자판매 새창 열림" data-omni="click" data-omni-type="footer" data-omni-data="footer:samsungsales">삼성전자판매</a></li>
+		  <li><a href="http://local.sec.samsung.com/comLocal/innovation.main.land" target="_self" data-omni="click" data-omni-type="footer" data-omni-data="footer:innovation">모바일 제품 비즈니스 협력제안</a></li>
+		  <li><a href="http://www.samsungedu.com/" target="_blank" title="삼성 에듀 새창 열림" data-omni="click" data-omni-type="footer" data-omni-data="footer:samsungedu">삼성 에듀</a></li>
+		  </ul>
+	  </div>						
+  </div>
+
+					</div>
+					<form class="footer-search">
+						<div class="search-form">
+							<input type="search" autocomplete="off" name="search-form-input-footer" id="search-form-input-footer" placeholder="Galaxy S7" title="검색어" aria-label="검색어" class="search-input search-form-input-footer">
+							<button type="submit" class="btn-search"><span class="ico-search">검색</span></button>
+						</div>
+					</form>
+										<div class="footer-social">
+						<ul class="social-list">
+						<li><a href="https://www.facebook.com/SamsungNewsroom" class="icon-fb nav-ir" title="페이스북 새 창" target="_blank" data-omni="click" data-omni-type="share" data-omni-data="follow:facebook"><span class="blind">Facebook</span></a></li>
+						<li><a href="https://twitter.com/samsungtomorrow/" class="icon-twitter nav-ir" title="트위터 새 창" target="_blank" data-omni="click" data-omni-type="share" data-omni-data="follow:twitter"><span class="blind">Twitter</span></a></li>
+						<li><a href="http://news.samsung.com/kr/" class="icon-blog nav-ir" title="블로그 새 창" target="_blank" data-omni="click" data-omni-type="share" data-omni-data="follow:blog"><span class="blind">Blog</span></a></li>
+					    <li><a href="http://flickr.com/samsungtomorrow" class="icon-flickr nav-ir" title="플리커 새 창" target="_blank" data-omni="click" data-omni-type="share" data-omni-data="follow:flickr"><span class="blind">flickr</span></a></li>
+						<li><a href="https://www.youtube.com/user/samsungtomorrow" class="icon-youtube nav-ir" title="유투브 새 창" target="_blank" data-omni="click" data-omni-type="share" data-omni-data="follow:youtube"><span class="blind">youtube</span></a></li>
+						</ul>
+						<ul class="footer-accreditation">
+						<li><a href="javascript:pop_wa();" title="웹 접근성 인증서 새 창" data-omni="click" data-omni-type="share" data-omni-data="footer:bottom_wa"><img src="/sec/common/img/icon-wa.png" height="36" width="51" alt="" class="img-accreditation">웹 접근성<br>우수 사이트</a></li>
+						<li><a href="/sec/info/award_ccm.html" data-omni="click" data-omni-type="share" data-omni-data="footer:bottom_ccm" title="소비자중심경영 새 창"><img src="/sec/common/img/icon-ccm.gif" height="36" width="35" alt="" class="img-accreditation">소비자중심<br>경영</a></li>
+						<li><a href="javascript:void(0);" onclick="markPopupE('2016-R038');" title="개인정보보호 우수 사이트 새 창" data-omni="click" data-omni-type="share" data-omni-data="footer:bottom_privacybest"><img src="/sec/common/img/icon-epri.gif" height="36" width="36" alt="" class="img-accreditation">개인정보보호<br>우수 사이트</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<!-- 한국 사이트 전용 -->
+			<!-- BEGIN: Notice Content (For reference) -->
+			<div class="footer-notice">
+				<div class="notice_sec">
+					<h3><a href="http://local.sec.samsung.com/comLocal/bbs/notice/index.do">공지사항</a></h3>
+					<div class="notice_box">
+						<a href="http://local.sec.samsung.com/comLocal/bbs/notice/NoticeView.do?seq=192">삼성 스마트 카메라 스튜디오 운영 종료 공지</a>
+						<!-- 추후 다시 변경될 예정 -->
+					</div>
+					<a href="javascript:void(0)" class="prev icon-left-arrow"><span class="blind">이전 공지 사항</span></a>
+					<a href="javascript:void(0)" class="next  icon-right-arrow"><span class="blind">다음 공지 사항</span></a>
+				</div>
+			</div>
+			<!-- END: Notice Content (For reference) -->
+			<div class="footer-policy">
+				<div class="footer-inner">
+					<ul class="others-list">
+					<li><a href="https://account.samsung.com/membership/etc/specialTC.do?fileName=samsungkorea.html" target="_blank" title="이용약관 새 창" data-omni="click" data-omni-type="footer" data-omni-data="footer:bottom_terms">이용약관</a></li>
+					<li><a href="/sec/info/personal_information.html" class="txt-blue" data-omni="click" data-omni-type="footer" data-omni-data="footer:bottom_personalinfo"><strong>개인정보처리방침</strong></a></li>
+					<li><a href="javascript:pop5();" title="개인정보취급방침 새 창" class="txt-blue" data-omni="click" data-omni-type="footer" data-omni-data="footer:bottom_privacypolicy"><strong>개인정보취급방침</strong></a></li>
+					<li><a href="/sec/info/kr_email_security.html" data-omni="click" data-omni-type="footer" data-omni-data="footer:bottom_emailsecurity">이메일무단수집거부</a></li>
+					<li><a href="http://sec-audit.com/kor/main.asp" target="_blank" title="윤리경영 새 창" data-omni="click" data-omni-type="footer" data-omni-data="footer:bottom_audit">윤리경영</a></li>
+					<li><a href="javascript:pop1()" title="보안신고 센터 새 창" data-omni="click" data-omni-type="footer" data-omni-data="footer:bottom_securitycenter">보안신고 센터</a></li>
+					<li><a href="/sec/accessibility/" data-omni="click" data-omni-type="footer" data-omni-data="footer:bottom_accessilityhelp" id="accHelp">웹접근성 도움말</a></li>
+					<li><a href="/sec/info/sitemap.html" data-omni="click" data-omni-type="footer" data-omni-data="footer:bottom_sitemap">사이트맵</a></li>
+					<li class="middle-ico-last"><a href="/sec/function/ipredirection/ipredirectionLocalList.html" data-omni="click" data-omni-type="footer" data-omni-data="footer:bottom_ipredirection" class="lang" title="Visit your contry's homepage">한국/한국어 <span class="flag-sec"></span> </a></li>
+					</ul>
+					<div class="footer-address">
+						<div class="legal-list">
+						<span>경기도 수원시 영통구 삼성로 129 (매탄동) 삼성전자주식회사 대표이사 권오현</span>
+						<a href="http://www.ftc.go.kr/info/bizinfo/communicationView.jsp?apv_perm_no=2000374001130200515&area1=&area2=&currpage=1&searchKey=04&searchVal=1248100998&stdate" target="_blank" title="사업자 정보확인 새 창" class="txt-blue" data-omni="click" data-omni-type="footer" data-omni-data="footer:bottom_bizinfo">사업자 정보확인</a>
+						<span>사업자등록번호 124-81-00998<span class="ico-rgt-bar"></span></span>
+						<span>통신판매업 신고: 2000-경기수원-0515</span>
+						</div>
+						<div class="legal-list">
+						<span>대표번호: 02)2255-0114<span class="ico-rgt-bar"></span></span>
+						<span>팩스: 02)2255-0117<span class="ico-rgt-bar"></span></span>
+						<span>개인정보/웹사이트/제품 서비스 문의: 1588-3366<span class="ico-rgt-bar"></span></span>
+						<span>스토어 고객센터: 1588-6084<span class="ico-rgt-bar"></span></span>
+						<span>휴대폰 개통 고객센터: 070-7169-7398<span class="ico-rgt-bar"></span></span>
+						<span>팩스: 02-3460-6840</span>
+						</div>
+						<p>삼성전자주식회사는 통신판매중개자로서 통신판매의 당사자가 아니며, 개별 판매자가 등록한 거래정보 및 거래에 대하여 책임을 지지 않습니다.</p>
+						<p><em class="txt-blue">본 사이트의 콘텐츠는 저작권법의 보호를 받는바, 무단 전재, 복사, 배포 등을 금합니다.</em></p>
+					</div>
+					<p class="footer-copyright">Copyright © 1995-2016 SAMSUNG All Rights Reserved.</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<script type="text/javascript" src="http://www.eprivacy.or.kr/seal/mark.js"></script>
+
+		<script	src="/common/next/js/samsung.min.js"></script>
+	<script	src="/common/next/js/src/ss-location.js"></script>
+	<script	src="/common/next/js/src/cookie.js"></script>
+	<script	src="/common/next/js/src/search_ac-global.js"></script>
+	<script	src="/common/next/js/src/estoreif-queue.js"></script>
+	<script	src="/common/next/js/src/estoreif.js"></script>	
+	<script src="/common/next/js/src/pages/auth.js"></script>
+	<script src="/sec/estore/resources/nextGenMiniCart.js"></script>
+	<script src="/common/js/dist/vendor.min.js"></script>	
+	<script src="/common/js/omni/s_code_next.js"></script>	
+	<script src="/common/js/dist/smg.global.min.js"></script>
+	<script src="/common/js/dist/smg.module.min.js"></script>
+
+	<script type="text/javascript" src="/sec/next/js/src/pages/main-notice.js"></script>	
+	<script>
+		(function($, win) {
+			'use strict';
+			//win.smg.global.font.loadCSS('/sec/common/css/font.css');
+
+			$(function(){	
+				$('.layer_popup .close, .layer_popup .icon-close-x, .layer_popup .alert-ok-button').click(function(){
+					var fid = $(this).data('focus-id');
+					if( fid === 'shop-popover-close'){
+						$('#ss_cart > button').trigger('focus');
+					}
+					$('.layer_popup').hide();
+					$('.lightbox-skrim').hide();
+					
+					// quick fix(wow)일경우 shop now창과 shipping창이 떳을 때 shop now창을 닫으면 shipping창도 같이 닫혀야하기때문에 추가.
+					$('#fk-shipping-modal').hide();
+					return false;
+				});
+			});
+		})(jQuery, window);
+	</script>
+	<script src="/sec/common/js/dist/smg.messages.js"></script>
+	
+	<!-- //javascript -->
+	<!-- //footer -->
+</div>
+
+<!-- javascript -->
+<script src="/sec/common/js/dist/smg.page.home.min.js"></script>
+<script src="/common/event/unpack2016/js/single_cluster_video.js"></script>
+
+
+<!-- //javascript -->
+<script type="text/javascript">
+
+	function pop1(){
+
+		window.open("http://local.sec.samsung.com/comLocal/sec/info/security_pop.html", "pop1", "width=560,height=565,history=no,resizable=no,status=no,scrollbars=yes,menubar=no")
+
+	}
+
+	function pop3(){
+
+		window.open("http://www.eprivacy.or.kr/seal/mark.jsp?mark=e&code=2014-R019", "pop3", "width=500,height=700,history=no,resizable=no,status=no,scrollbars=yes,menubar=no")
+
+	}
+
+	function pop5(){
+
+		window.open("http://store.samsung.com/sec/ng/privacy-policy", "pop6", "width=600,height=762,history=no,resizable=no,status=no,scrollbars=yes,menubar=no")
+
+	}
+	 function pop6(){
+
+		window.open("http://www.samsung.com/sec/pop/safebuy.html", "pop6", "width=500,height=356,history=no,resizable=no,status=no,scrollbars=no,menubar=no")
+
+	}
+	 function pop_wa(){
+
+		window.open("http://www.samsung.com/sec/accessibility/certificate/WA.html", "wa", "width=451,height=640,history=no,resizable=no,status=no,scrollbars=no,menubar=no")
+
+	}
+
+</script>
+
+
+
+<!-- // main GNB & Footer modify-->
+
+<div class="overlay background"></div>
+
+<!-- // main GNB & Footer modify-->
+
+<!-- Opinion Lab :: 15.09.14 Include these files just before the close body </body> tag -->
+<!-- MAIN OL STYLESHEET JS -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/common/js/onlineopinionV5/oo_style.js"></script>
+<!-- MAIN OL ENGINE MINI-->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/common/js/onlineopinionV5/oo_engine.min.js"></script>
+<!-- MAIN OL ENGINE -->
+<!-- FEEDBACK CONFIGURATION -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/common/js/onlineopinionV5/oo_conf_tab.js"></script>
+<!-- END: OnlineOpinion v5+ -->
+
+<script>
+	// opinion lab title - dong_won.lee > jQuery Event Binding
+	(function(win) {
+		'use strict';
+		$(win).load(function() {
+			if($('#oo_tab').attr('class')) {
+				$('#oo_tab').attr('title','새창');
+				$('.screen_reader').text('코멘트 카드를 활성화 함');
+				/*
+				$('#oo_tab').click(function () {
+					sendClickCode('survey_click', 'ol survey tab click');
+				});
+				*/
+			}
+		});
+	})(window);
+</script>
+</body>
+</html>
